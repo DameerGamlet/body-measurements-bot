@@ -1,0 +1,12 @@
+23:29:58.725 [main] INFO  t.b.b.BodyMeasurementsBotApplication - Starting BodyMeasurementsBotApplication using Java 17.0.7 with PID 249644 (/home/damir/Documents/00_PROJECTS/BOTS/body-measurements-bot/build/classes/java/main started by damir in /home/damir/Documents/00_PROJECTS/BOTS/body-measurements-bot)
+23:29:58.729 [main] INFO  t.b.b.BodyMeasurementsBotApplication - No active profile set, falling back to 1 default profile: "default"
+23:29:59.332 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+23:29:59.337 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+23:29:59.338 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+23:29:59.338 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+23:29:59.404 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+23:29:59.405 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 623 ms
+23:29:59.730 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+23:29:59.739 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+23:30:00.144 [main] INFO  t.b.b.BodyMeasurementsBotApplication - Started BodyMeasurementsBotApplication in 1.806 seconds (process running for 2.362)
+23:30:13.415 [BodyMeasurementsBot Telegram Executor] INFO  t.b.b.controller.TelegramBot - Отправляется сообщение в чате с ID: 899539625 и с сообщением: Сорри, брат, но такая команда не поддерживает данный бот. Я не могу выдать тебе на неё реакцию
